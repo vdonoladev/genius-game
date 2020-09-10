@@ -185,7 +185,7 @@ def author():
 	screen.addstr(14, 20, '  \_/\___|_| /__/\__,_\___/ |_(_)__/ ', curses.color_pair(14) | curses.A_BOLD)
                                      
 	screen.addstr(17, 15, 'author: Víctor Donola Ferreira (vdonoladev)', curses.color_pair(12))
-	screen.addstr(18, 15, 'Rua Divino, 64 - Centro', curses.color_pair(12))
+	screen.addstr(18, 15, 'Rua Divino, 77 - Centro', curses.color_pair(12))
 	screen.addstr(19, 28, 'Carangola - Minas Gerais', curses.color_pair(12))
 
 
